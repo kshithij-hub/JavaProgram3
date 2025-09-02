@@ -20,3 +20,4 @@ public class EBike extends Bicycle {
 	 } 
 	  
 }
+
